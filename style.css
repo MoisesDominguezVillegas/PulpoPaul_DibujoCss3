@@ -7,15 +7,7 @@
 body{
     background-color: #000000;
 }
-.texto{
-    position: absolute;
-    margin-top: 2.5em;
-    margin-left: 45%;
-    font-weight: bolder;
-    background: -webkit-linear-gradient(yellow,red);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+
 .container{
     height: 31.25em;
     width: 31.25em;
